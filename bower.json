@@ -1,0 +1,25 @@
+{
+  "name": "Naresh",
+  "authors": [
+    "Naresh Sadu <Naresh.Sadu@vitality.co.uk>"
+  ],
+  "description": "This is a trial",
+  "main": "naresh_bower",
+  "keywords": [
+    "tesing",
+    "naresh",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "www.tcs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
